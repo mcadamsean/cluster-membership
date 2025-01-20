@@ -1,5 +1,5 @@
 # cluster-membership
-This repository contains my work completed at Western Washington University with the MWBest team of regional research institutions. 
+This repository contains my work completed at Western Washington University with the MWBest team of regional research institutions. All code is my own, but I have the observational data thanks to the MWBest team, and the Gala simulation thanks to WWU's Faith Benda. 
 
 The membership process uses observational and simulated data in a 5D parameter space of position and motion (RA,DEC,PMRA,PMDEC,PX) to identify overdensities in the observed data, and establish membership probabilities for each star in the dataset.
 
