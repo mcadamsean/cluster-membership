@@ -1,3 +1,6 @@
+### **Please view the Piecewise Membership Workflow PDF for more detailed documentation of the process**
+
+
 **Requirements to start:**
 1. An observed dataset that contains:
      - Position and motion information (RA,DEC,PMRA,PMDEC, Px)
